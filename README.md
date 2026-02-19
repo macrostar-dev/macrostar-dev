@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi there, I'm Isaac Ruiz 👋 
 
-<!--
-**macrostar-dev/macrostar-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Cybersecurity Technician | Python Developer | RPA Enthusiast
 
-Here are some ideas to get you started:
+Entry-level Cybersecurity technician with practical experience in Python development, process automation, and SQL database integration. I am passionate about continuous learning and eager to contribute to professional teams while growing in networking and automation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Technical Skills
+
+| Category | Technologies |
+| :--- | :--- |
+| **Programming** | Python (PCAP Essentials), SQL (MySQL/SQLite), HTML |
+| **Automation & RPA** | Selenium, Openpyxl (Excel), Flask, Bot integration (Discord/Webex) |
+| **Cybersecurity** | Defensive programming logic, Incident Management, Network Monitoring |
+| **Networking** | CCNA: Introduction to Networks, Switching, Routing, and Wireless Essentials |
+
+---
+
+### 🚀 Key Projects
+* **Tablify:** Tool for efficient data management and table generation.
+* **AuroraBright:** RPA automation project.
+* **CRUD Database App:** Console-based application with full relational database operations.
+
+---
+
+### 📜 Certifications & Experience
+* **Professional Internships:** Experience at **Datasys Group** (Infrastructure monitoring & Python scripts) and **Cisco Systems** (Network engineering).
+* **Technical Education:** Technical High School Diploma in Cybersecurity.
+* **Linux:** NDG Linux Essentials & Unhatched.
+
+---
+
+### 📫 Connect with me:
+* **LinkedIn:** [linkedin.com/in/isaac-ruiz](https://www.linkedin.com/in/IsaacRuiz)
+* **Email:** ieduruiz18@gmail.com
+* **Location:** San José, Costa Rica 🇨🇷
