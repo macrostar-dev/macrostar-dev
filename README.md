@@ -19,8 +19,7 @@ Entry-level Cybersecurity technician with practical experience in Python develop
 
 ### 🚀 Key Projects
 * **Tablify:** Tool for efficient data management and table generation.
-* **AuroraBright:** RPA automation project.
-* **CRUD Database App:** Console-based application with full relational database operations.
+* **AuroraBright:** 
 
 ---
 
