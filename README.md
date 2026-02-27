@@ -17,12 +17,6 @@ Entry-level Cybersecurity technician with practical experience in Python develop
 
 ---
 
-### 🚀 Key Projects
-* **Tablify:** Tool for efficient data management and table generation.
-* **AuroraBright:** 
-
----
-
 ### 📜 Certifications & Experience
 * **Professional Internships:** Experience at **Datasys Group** (Infrastructure monitoring & Python scripts) and **Cisco Systems** (Network engineering).
 * **Technical Education:** Technical High School Diploma in Cybersecurity.
